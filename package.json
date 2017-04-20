@@ -1,0 +1,14 @@
+{
+  "name": "sandbox-js",
+  "version": "1.0.0",
+  "description": "VanillaJs playground",
+  "main": "higher-order-functions.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "pretest": "lints ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maciej Kołodziej",
+  "license": "MIT"
+}
